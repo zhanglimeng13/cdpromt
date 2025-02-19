@@ -1,2 +1,2 @@
-# cdpromt
+# CDPrompt
 Code for CDPrompt.
